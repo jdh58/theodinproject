@@ -8,7 +8,6 @@
       "buildpacks": [
         { "url": "https://github.com/gaffneyc/heroku-buildpack-jemalloc.git" },
         { "url": "heroku/nodejs" },
-        { "url": "heroku/ruby" },
         { "url": "https://github.com/devforce/heroku-buildpack-cleanup" }
       ],
       "addons": [
